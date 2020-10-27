@@ -40,8 +40,7 @@ import com.ruoyi.system.service.ISysUserService;
 public class SysUserController extends BaseController
 {
     private String prefix = "system/user";
-
-    String a = "dfas";
+    
     @Autowired
     private ISysUserService userService;
 
