@@ -41,6 +41,8 @@ public class SysUserController extends BaseController
 {
     private String prefix = "system/user";
 
+    String aa = "dfa";
+
     @Autowired
     private ISysUserService userService;
 
